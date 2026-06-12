@@ -1,0 +1,12 @@
+{
+    "python.defaultInterpreterPath": "${workspaceFolder}\\mlenv\\Scripts\\python.exe",
+    "python.languageServer": "Pylance",
+    "python.analysis.typeCheckingMode": "basic",
+    "editor.quickSuggestions": {
+        "other": true,
+        "comments": false,
+        "strings": true
+    },
+    "editor.wordBasedSuggestions": "matchingDocuments",
+    "jupyter.notebookFileRoot": "${workspaceFolder}"
+}
